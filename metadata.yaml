@@ -1,0 +1,39 @@
+_repo: Cannes-und-Genua--Vier-Reden-zum-Reparationsproblem_20937
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rathenau, Walther
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '9616'
+    url: http://www.gutenberg.org/2009/agents/9616
+    wikipedia: http://en.wikipedia.org/wiki/Walther_Rathenau
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- World War I
+- German Language Books
+gutenberg_issued: '2007-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20937'
+  lccn: '51050553'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Reparations'
+- !lcsh 'Speeches, addresses, etc.'
+tableOfContents: Rede vor dem Obersten Rat der Alliierten in Cannes vom 12. Januar
+  1922 -- Rede vor dem Hauptausschuß des Reichstages vom 7. März 1922 -- Reichstagsrede
+  vom 29. März 1922 -- Rede vor der Vollversammlung der Genueser Konferenz vom 19.
+  Mai 1922 -- Rede, gehalten am 9. Juni 1922 in Stuttgart, vor einem geladenen Kreis
+  aller Parteien -- Rede, gehalten am 13. Juni 1922 in Berlin, in der Deutschen Gesellschaft
+  von 1914 -- Rede vor dem Reichstage am 21. Juni 1922
+title: 'Cannes und Genua: Vier Reden zum Reparationsproblem'
+url: http://www.gutenberg.org/ebooks/20937
