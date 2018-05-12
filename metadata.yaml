@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9616
     wikipedia: http://en.wikipedia.org/wiki/Walther_Rathenau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20937#Cannes-und-Genua--Vier-Reden-zum-Reparationsproblem
 gutenberg_bookshelf:
 - DE Sachbuch
 - World War I
